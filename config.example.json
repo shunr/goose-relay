@@ -1,0 +1,12 @@
+{
+  "slack": {
+    "slackToken": "xxxx-xxxxxxxxxxxx-xxxxxxxxxxx",
+    "channelId": "C7BSH3Q4V",
+    "channelName": "messenger"
+  },
+  "messenger": {
+    "email": "abc@xyz.com",
+    "password": "correcthorsebatterystaple",
+    "threadId": "1301354823282423"
+  }
+}

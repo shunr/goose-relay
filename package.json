@@ -1,0 +1,15 @@
+{
+  "name": "slackgoose",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "debug": "~2.6.3",
+    "facebook-chat-api": "^1.4.0",
+    "morgan": "~1.8.1",
+    "request": "^2.83.0",
+    "slackbots": "^1.1.0"
+  }
+}
